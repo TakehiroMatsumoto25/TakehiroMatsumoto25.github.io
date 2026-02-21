@@ -9,9 +9,9 @@ profile:
   image: Matsumoto_prof_pic0.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>東北大学大学院 理学研究科</p>
+    <p>数学専攻 博士課程</p>
+    <p>Email: takehiro.m.jp@gmail.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
