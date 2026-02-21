@@ -28,7 +28,7 @@ latest_posts:
 ---
 <style>
   .profile img {
-    width: 130px; /* この数字を小さくするほど、画像が小さくなります */
+    width: 180px; /* この数字を小さくするほど、画像が小さくなります */
     height: auto;
     margin-top: 20px;
   }
