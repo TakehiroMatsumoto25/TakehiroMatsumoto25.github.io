@@ -26,6 +26,14 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<style>
+  .profile img {
+    width: 130px; /* この数字を小さくするほど、画像が小さくなります */
+    height: auto;
+    margin-top: 20px;
+  }
+</style>
+
 こんにちは！東北大学数学専攻の博士課程学生の松本です．
 現在ポートフォリオサイトを構築中です．
 
