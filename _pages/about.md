@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: Matsumoto_prof_pic0.jpg.jpg
+  image: Matsumoto_prof_pic0.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
