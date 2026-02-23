@@ -37,6 +37,18 @@ latest_posts:
 こんにちは！東北大学数学専攻の博士課程学生の松本健宏です．
 現在サイト作成中です．
 
+---
+
+- **keywords**: 
+  - Finite Element Method (有限要素法)
+  - Computational Fluid Dynamics (計算流体力学)
+  - Aquous humour (房水)
+  - Causal Discovery (因果探索)
+  - LiNGAM
+  - Machine learning (機械学習)
+  - Variational Auto-Encoder (変分オートエンコーダ)
+---
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
