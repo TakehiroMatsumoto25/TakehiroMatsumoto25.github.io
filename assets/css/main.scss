@@ -47,15 +47,16 @@ body {
   background-repeat: no-repeat;
 }
 
-// --- 「白い板」を確実に出すための修正 ---
-// .post だけでなく、メインのコンテナ全体をターゲットにします
-.container.mt-5, 
+// 画面中央の主要なパーツすべてに背景色を叩き込みます
+main > .container, 
 .post, 
-article {
-  background-color: rgba(255, 255, 255, 0.92) !important; // 0.92はかなり「白」に近いです
-  padding: 40px !important;         // 板の内側に余裕を持たせる
-  border-radius: 20px !important;   // 角を丸くしておしゃれに
-  margin-top: 30px !important;      // 上のメニューとの隙間
-  margin-bottom: 30px !important;   // 下のフッターとの隙間
-  box-shadow: 0 10px 30px rgba(0,0,0,0.3) !important; // 影をつけて「浮いている感」を出す
+article, 
+.news, 
+.publications {
+  background-color: rgba(255, 255, 255, 0.96) !important; // ほぼ真っ白
+  padding: 30px !important;
+  border-radius: 15px !important;
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2) !important; // 境界をはっきりさせる影
 }
