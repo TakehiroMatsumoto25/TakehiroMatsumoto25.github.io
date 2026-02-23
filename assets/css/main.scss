@@ -47,12 +47,15 @@ body {
   background-repeat: no-repeat;
 }
 
-// メインコンテンツの全体に白い板を強制的に敷く設定
-.container[role="main"], .post {
-  background-color: rgba(255, 255, 255, 0.95) !important; /* !important でテーマの設定を強制上書き */
-  padding: 2.5rem !important; /* 内側の余白を少し広げて読みやすく */
-  border-radius: 15px !important; /* 角を丸くする */
-  margin-top: 2rem; /* 板の上の隙間 */
-  margin-bottom: 2rem; /* 板の下の隙間 */
-  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* おまけ：板に少しだけ影をつけて立体的にする */
+// --- 「白い板」を確実に出すための修正 ---
+// .post だけでなく、メインのコンテナ全体をターゲットにします
+.container.mt-5, 
+.post, 
+article {
+  background-color: rgba(255, 255, 255, 0.92) !important; // 0.92はかなり「白」に近いです
+  padding: 40px !important;         // 板の内側に余裕を持たせる
+  border-radius: 20px !important;   // 角を丸くしておしゃれに
+  margin-top: 30px !important;      // 上のメニューとの隙間
+  margin-bottom: 30px !important;   // 下のフッターとの隙間
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3) !important; // 影をつけて「浮いている感」を出す
 }
