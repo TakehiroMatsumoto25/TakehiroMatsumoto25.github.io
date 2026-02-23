@@ -670,3 +670,16 @@ jsonresume:
   - languages
   - interests
   - references
+
+
+
+
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+social:
+  email: takehiro.m.jp@gmail.com
+  github_username: TakehiroMatsumoto25
+  # twitter_username: 
+  # scholar_userid: 
+  # orcid_id:
