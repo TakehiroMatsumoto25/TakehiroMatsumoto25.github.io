@@ -37,3 +37,18 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+// --- 追加したカスタム背景設定 ---
+body {
+  background-image: url('../img/background1.jpg'); // 画像のファイル名に合わせてください
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+// 論文リストや自己紹介文が背景に埋もれないよう、少し白い板を敷く設定
+.post {
+  background-color: rgba(255, 255, 255, 0.85); // 0.85の数字で透明度を調整できます
+  padding: 2rem;
+  border-radius: 10px; // 角を少し丸くする
+}
