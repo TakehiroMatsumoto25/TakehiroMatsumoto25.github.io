@@ -48,7 +48,7 @@ body {
 }
 // 論文リストや自己紹介文が背景に埋もれないよう、少し白い板を敷く設定
 .post {
-  background-color: rgba(255, 255, 255, 0.85); // 0.85の数字で透明度を調整できます
+  background-color: rgba(255, 255, 255, 0.95); // 0.85の数字で透明度を調整できます
   padding: 2rem;
   border-radius: 10px; // 角を少し丸くする
 }
