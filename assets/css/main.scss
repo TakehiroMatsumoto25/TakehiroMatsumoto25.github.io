@@ -41,7 +41,7 @@
 // --- 追加したカスタム背景設定 ---
 body {
   // 画像の上に「白い膜」を重ねる魔法の一行
-  background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), 
+  background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), 
               url('../img/background1.jpg') no-repeat center center fixed !important;
   
   background-size: cover !important;
