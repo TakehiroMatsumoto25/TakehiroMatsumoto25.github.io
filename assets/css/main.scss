@@ -40,15 +40,19 @@
 
 // --- 追加したカスタム背景設定 ---
 body {
-  background-image: url('../img/background1.jpg'); // 画像のファイル名に合わせてください
+  background-image: url('../img/background1.jpg');
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
 }
-// 論文リストや自己紹介文が背景に埋もれないよう、少し白い板を敷く設定
-.post {
-  background-color: rgba(255, 255, 255, 0.95); // 0.85の数字で透明度を調整できます
-  padding: 2rem;
-  border-radius: 10px; // 角を少し丸くする
+
+// メインコンテンツの全体に白い板を強制的に敷く設定
+.container[role="main"], .post {
+  background-color: rgba(255, 255, 255, 0.95) !important; /* !important でテーマの設定を強制上書き */
+  padding: 2.5rem !important; /* 内側の余白を少し広げて読みやすく */
+  border-radius: 15px !important; /* 角を丸くする */
+  margin-top: 2rem; /* 板の上の隙間 */
+  margin-bottom: 2rem; /* 板の下の隙間 */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* おまけ：板に少しだけ影をつけて立体的にする */
 }
