@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>東北大学大学院 理学研究科</p>
     <p>数学専攻 博士課程</p>
-    <p>Email: takehiro.m.jp@gmail.com</p>
+    <p>Email: takehiro.m.jp[at]gmail.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -35,7 +35,7 @@ latest_posts:
 </style>
 
 こんにちは！東北大学数学専攻の博士課程学生の松本です．
-現在ポートフォリオサイトを構築中です．
+現在サイト作成中です．
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
