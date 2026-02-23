@@ -34,7 +34,7 @@ latest_posts:
   }
 </style>
 
-こんにちは！東北大学数学専攻の博士課程学生の松本です．
+こんにちは！東北大学数学専攻の博士課程学生の松本健宏です．
 現在サイト作成中です．
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
