@@ -4,11 +4,9 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 
-# 1行追加し、以下の項目を字下げ（インデント）します
-social:
-  email: takehiro.m.jp@gmail.com # your email address
-  github_username: TakehiroMatsumoto25 # GitHubのID
-  linkedin_username: takehiro-matsumoto-887542323 # LinkedInのID（URLの末尾の部分だけを入れます）
+email: takehiro.m.jp@gmail.com
+github_username: TakehiroMatsumoto25
+linkedin_username: takehiro-matsumoto-887542323
 
 # cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 # inspirehep_id: 1010907 # Inspire HEP author ID
