@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Presentation
-permalink: /presentation/
+title: myself
+permalink: /myself/
 nav: true
 nav_order: 5
 ---
