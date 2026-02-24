@@ -6,8 +6,8 @@ title: Takehiro Matsumoto # the website title (if blank, full name will be used 
 first_name: Takehiro
 middle_name: 
 last_name: Matsumoto
-contact_note: >
-  ご連絡はメールにてお願いします．
+# contact_note: >
+#   ご連絡はメールにてお願いします．
 description: > # the ">" symbol means to ignore newlines until "footer_text:"  #A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
   東北大学 理学研究科 数学専攻 松本健宏のサイトです．
 footer_text: >
