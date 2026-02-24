@@ -7,7 +7,7 @@ first_name: Takehiro
 middle_name: 
 last_name: Matsumoto
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  ご連絡はメールにてお願いします．
 description: > # the ">" symbol means to ignore newlines until "footer_text:"  #A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
   東北大学 理学研究科 数学専攻 松本健宏のサイトです．
 footer_text: >
