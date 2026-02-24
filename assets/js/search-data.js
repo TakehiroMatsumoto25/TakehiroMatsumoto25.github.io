@@ -500,6 +500,13 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%74%61%6B%65%68%69%72%6F.%6D.%6A%70@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
@@ -512,13 +519,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/takehiro-matsumoto-887542323", "_blank");
-        },
-      },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%74%61%6B%65%68%69%72%6F.%6D.%6A%70@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
       id: 'light-theme',
