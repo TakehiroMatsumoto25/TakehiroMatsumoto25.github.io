@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/projects/";
           },
         },{id: "nav-presentation",
-          title: "Presentation",
+          title: "presentation",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -37,19 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-presentation",
-          title: "Presentation",
+        },{id: "nav-myself",
+          title: "myself",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/presentation/";
-          },
-        },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/myself/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
