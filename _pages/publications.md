@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 現在、論文は投稿準備中です。
