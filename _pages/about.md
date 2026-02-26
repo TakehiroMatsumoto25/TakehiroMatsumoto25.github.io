@@ -41,7 +41,7 @@ latest_posts:
 ### Research Keywords (キーワード)
 
 - **Computational science**: 
- - Finite Element Method (有限要素法)
+  - Finite Element Method (有限要素法)
   - Fluid Simulation (流体シミュレーション)
   - Aqueous humour (房水)
 - **Causality**:
