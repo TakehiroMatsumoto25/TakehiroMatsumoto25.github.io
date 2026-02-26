@@ -426,16 +426,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-日本応用数理学会2025年度年会-東京理科大学-にて講演しました",
+          title: '日本応用数理学会2025年度年会（東京理科大学）にて講演しました。',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-current-status-and-new-development-in-the-theoretical-analysis-for-the-discrete-models-of-partial-differential-equations-中国-成都-にて講演しました",
+          title: 'Current Status and New Development in the Theoretical Analysis for the Discrete Models...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-応用数学フレッシュマンセミナー2025-京都大学-にて講演しました",
+          title: '応用数学フレッシュマンセミナー2025（京都大学）にて講演しました。',
+          description: "",
+          section: "News",},{id: "news-2025年度応用数学合同研究集会-龍谷大学-にて講演しました",
+          title: '2025年度応用数学合同研究集会（龍谷大学）にて講演しました。',
+          description: "",
+          section: "News",},{id: "news-amsc2026-workshop-on-applied-mathematics-and-scientific-computing-しいのき迎賓館-金沢-にて講演しました",
+          title: 'AMSC2026: Workshop on Applied Mathematics and Scientific Computing（しいのき迎賓館，金沢）にて講演しました。',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
