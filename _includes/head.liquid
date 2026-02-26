@@ -19,7 +19,6 @@
 >
 
 {% if page.pretty_table %}
-  <!-- Bootstrap Table -->
   <link
     defer
     rel="stylesheet"
@@ -29,7 +28,6 @@
   >
 {% endif %}
 
-<!-- Fonts & Icons -->
 <link defer rel="stylesheet" href="{{ '/assets/css/academicons.min.css' | relative_url | bust_file_cache }}">
 <link defer rel="stylesheet" href="{{ '/assets/css/scholar-icons.css' | relative_url | bust_file_cache }}">
 <link
@@ -38,6 +36,9 @@
   type="text/css"
   href="{{ site.third_party_libraries.google_fonts.url.fonts }}"
 >
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
 
 <!-- Code Syntax Highlighting -->
 <link
