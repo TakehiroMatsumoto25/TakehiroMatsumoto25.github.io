@@ -42,8 +42,8 @@
 body {
   // 画像の上に「白い膜」を重ねる魔法の一行
   background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), 
-              url('../img/background2.JPG') no-repeat center center fixed !important;
-            //   url('../img/background1.jpg') no-repeat center center fixed !important;
+              // url('../img/background2.JPG') no-repeat center center fixed !important;
+              url('../img/background1.jpg') no-repeat center center fixed !important;
   
   background-size: cover !important;
 }
