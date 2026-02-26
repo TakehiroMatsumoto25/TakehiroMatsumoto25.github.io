@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-AMSC2026: Workshop on Applied Mathematics and Scientific Computing（しいのき迎賓館，金沢）にて発表しました。
+AMSC2026: Workshop on Applied Mathematics and Scientific Computing（しいのき迎賓館，金沢）にて発表しました．
