@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 東北大学大学院 理学研究科 数学専攻 博士前期課程
 

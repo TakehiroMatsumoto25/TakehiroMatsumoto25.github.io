@@ -1,6 +1,6 @@
 ---
 layout: page
-title: presentation
+title: Presentation
 permalink: /presentation/
 nav: true
 nav_order: 2

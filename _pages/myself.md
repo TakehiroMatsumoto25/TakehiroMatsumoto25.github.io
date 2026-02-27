@@ -1,6 +1,6 @@
 ---
 layout: page
-title: myself
+title: Myself
 permalink: /myself/
 nav: true
 nav_order: 5
