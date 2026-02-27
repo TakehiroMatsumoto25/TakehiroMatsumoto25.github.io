@@ -10,3 +10,8 @@ nav_order: 5
 
 - **Hobbies** 
   - Skiing
+  - Cycling
+  - Fishing
+  - Eating Delicious food
+  - Watching Motor sports
+  - Kicks
