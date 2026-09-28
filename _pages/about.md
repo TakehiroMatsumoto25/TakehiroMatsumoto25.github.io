@@ -52,24 +52,15 @@ latest_posts:
   - Fluid Simulation (流体シミュレーション)
   - Aqueous humour (房水)
 
-<section id="projects" class="one-page-section" markdown="1">
-
-## Projects
-
-<div class="projects">
-{% assign sorted_projects = site.projects | sort: "importance" %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-</div>
-
-</section>
-
 <section id="presentation" class="one-page-section" markdown="1">
 
 ## Presentations / 講演履歴
+
+- **日本応用数理学会2026年度年会 正会員OS 「FreeFEMの開発と利用」**（九州大学，2026年9月）
+  <br>"FreeFEM を用いた熱対流を伴う前眼部房水流動のシミュレーション"
+
+- **CoMFoSNaSc 2026**（フィリピン，2026年6月）
+  <br>"Finite Element Simulation of Aqueous Humour Flow with Thermal Convection in the Human Eye"
 
 - **AMSC2026: Workshop on Applied Mathematics and Scientific Computing**（しいのき迎賓館，金沢，2026年1月）
   <br>"Finite Element Simulation of Thermal Convection in the Human Eye"
