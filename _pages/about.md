@@ -34,12 +34,14 @@ latest_posts:
   .profile img {
     width: 180px; /* この数字を小さくするほど、画像が小さくなります */
     height: auto;
-    margin-top: 20px;
+    margin-top: 0;
   }
 </style>
 
 こんにちは．松本健宏です．
 現在サイト作成中です．
+
+<div class="section-spacer"></div>
 
 ### Affiliation / 所属
 
