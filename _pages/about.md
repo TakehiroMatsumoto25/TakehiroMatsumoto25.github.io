@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 one_page_nav: true
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
