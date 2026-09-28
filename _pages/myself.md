@@ -2,7 +2,7 @@
 layout: page
 title: Myself
 permalink: /myself/
-nav: true
+nav: false
 nav_order: 5
 ---
 

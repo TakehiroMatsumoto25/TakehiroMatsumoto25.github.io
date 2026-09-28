@@ -44,6 +44,49 @@ body.sticky-bottom-footer {
 // Main content flows naturally through container-mt-5 and Bootstrap grid classes
 // See _layouts/default.liquid and _includes/projects.liquid for examples
 
+// One-page home
+.one-page-home {
+  .one-page-nav {
+    top: 5rem;
+    margin-bottom: 2rem;
+    padding: 0.75rem 0 0.75rem 1rem;
+    border-left: 1px solid var(--global-divider-color);
+
+    a {
+      display: block;
+      padding: 0.25rem 0;
+      color: var(--global-text-color-light);
+      font-size: 0.95rem;
+
+      &:hover {
+        color: var(--global-theme-color);
+        text-decoration: none;
+      }
+    }
+  }
+
+  .one-page-section {
+    padding-top: 1.5rem;
+    margin-top: 2.25rem;
+    border-top: 1px solid var(--global-divider-color);
+    scroll-margin-top: 5rem;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .one-page-home {
+    .one-page-nav {
+      position: static;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.25rem 0.75rem;
+      padding: 0 0 1rem;
+      border-left: 0;
+      border-bottom: 1px solid var(--global-divider-color);
+    }
+  }
+}
+
 /******************************************************************************
  * Publications
  ******************************************************************************/
