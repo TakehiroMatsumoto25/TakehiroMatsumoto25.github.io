@@ -50,10 +50,11 @@ ul > li::before {
   height: 0.55em;
   left: -1.3em;
   top: 0.55em;
-  background-color: #777777 !important;
+  background-color: v.$cyan-color;
 }
 
 ul ul > li::before {
+  background-color: #777777;
   border-radius: 50%;
 }
 
