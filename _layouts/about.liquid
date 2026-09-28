@@ -3,8 +3,8 @@ layout: default
 ---
 <div class="post{% if page.one_page_nav %} one-page-home{% endif %}">
   {% if page.one_page_nav %}
-    <div class="row">
-      <aside class="col-md-2 order-md-2">
+    <div class="one-page-shell">
+      <aside class="one-page-aside">
         <nav class="one-page-nav sticky-top" aria-label="Section navigation">
           <a href="#about">About</a>
           <a href="#presentation">Presentation</a>
@@ -12,7 +12,7 @@ layout: default
           <a href="#cv">CV</a>
         </nav>
       </aside>
-      <div class="col-md-10 order-md-1">
+      <div class="one-page-main">
   {% endif %}
 
     <header class="post-header" id="about">
