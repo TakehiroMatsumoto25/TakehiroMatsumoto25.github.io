@@ -35,16 +35,26 @@ table {
   }
 }
 
-ul > li::marker {
-  content: "▪ ";
-  color: v.$cyan-color;
-  font-size: 1.25em;
+ul {
+  list-style: none;
 }
 
-ul ul > li::marker {
-  content: "● ";
-  color: v.$cyan-color;
-  font-size: 1.05em;
+ul > li {
+  position: relative;
+}
+
+ul > li::before {
+  content: "";
+  position: absolute;
+  width: 0.55em;
+  height: 0.55em;
+  left: -1.3em;
+  top: 0.55em;
+  background-color: v.$cyan-color;
+}
+
+ul ul > li::before {
+  border-radius: 50%;
 }
 
 a,
