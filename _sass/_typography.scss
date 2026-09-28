@@ -35,7 +35,14 @@ table {
   }
 }
 
-li::marker {
+ul > li::marker {
+  content: "▫ ";
+  color: v.$cyan-color;
+  font-size: 1.55em;
+}
+
+ul ul > li::marker {
+  content: "● ";
   color: v.$cyan-color;
   font-size: 1.55em;
 }
