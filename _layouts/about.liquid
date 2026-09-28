@@ -19,6 +19,7 @@ layout: default
       <h1 class="post-title">
         {% if page.name_en and page.name_ja %}
           <span class="name-en">{{ page.name_en }}</span>
+          <br>
           <span class="name-ja">{{ page.name_ja }}</span>
         {% elsif site.title == 'blank' %}
           <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
