@@ -49,7 +49,8 @@ latest_posts:
 - **Mathematics, Computational science**:
   - Finite Element Method (有限要素法)
   - Fluid Simulation (流体シミュレーション)
-  - Aqueous humour (房水)
+
+- **Causal Discocvery**:
 
 <section id="presentation" class="one-page-section" markdown="1">
 
@@ -86,11 +87,9 @@ latest_posts:
 
 </section>
 
-<section id="cv" class="one-page-section" markdown="1">
+<section id="education" class="one-page-section" markdown="1">
 
-## CV
-
-### Education
+## Education / 学歴
 
 - **金沢大学大学院 自然科学研究科** 博士後期課程（2026年4月 - 現在）
 - **東北大学大学院 理学研究科 数学専攻** 博士前期課程（2022年4月 - 2026年3月）
