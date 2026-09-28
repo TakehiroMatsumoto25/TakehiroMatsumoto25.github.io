@@ -166,13 +166,16 @@ h6,
 }
 
 .post-title {
+  margin-bottom: 1.5rem;
+  line-height: 1.05;
+
   .name-en,
   .name-ja {
     display: block;
   }
 
   .name-ja {
-    margin-top: 0;
+    margin-top: 0.35rem;
     font-size: 0.65em;
   }
 }
