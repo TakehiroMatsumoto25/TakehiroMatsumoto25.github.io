@@ -2,15 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: 東北大学大学院 理学研究科 数学専攻 博士前期課程
+subtitle: 金沢大学大学院 自然科学研究科 博士後期課程1年
 
 profile:
   align: right
   image: Matsumoto_prof_pic0.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>東北大学大学院 理学研究科</p>
-    <p>数学専攻 博士課程</p>
+    <p>金沢大学大学院 自然科学研究科</p>
+    <p>博士後期課程1年</p>
+    <p>2026年4月 - 現在</p>
     <p>Email: takehiro.m.jp[at]gmail.com</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -38,18 +39,18 @@ latest_posts:
 こんにちは．松本健宏です．
 現在サイト作成中です．
 
+### Affiliation
+
+- **金沢大学大学院 自然科学研究科** 博士後期課程1年（2026年4月 - 現在）
+- **東北大学大学院 理学研究科 数学専攻** 博士前期課程（2024年4月 - 2026年3月）
+
 
 ## Research Keywords (キーワード)
 
-- **Mathematics, Computational science**: 
+- **Mathematics, Computational science**:
   - Finite Element Method (有限要素法)
   - Fluid Simulation (流体シミュレーション)
   - Aqueous humour (房水)
-- **Causal Discovery**:
-  - LiNGAM, VAR-LiNGAM
-- **Machine Learning**:
-  - Machine learning (機械学習)
-  - Variational Auto-Encoder (変分オートエンコーダ)
 
 <section id="projects" class="one-page-section" markdown="1">
 
