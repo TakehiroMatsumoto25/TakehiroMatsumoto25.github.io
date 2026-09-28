@@ -46,7 +46,7 @@ latest_posts:
 - 金沢大学大学院 自然科学研究科 博士後期課程1年（2026年4月 - 現在）
 
 
-## Research Keywords / キーワード
+### Research Keywords / キーワード
 
 - **Mathematics, Computational science**:
   - Finite Element Method (有限要素法)
@@ -74,7 +74,7 @@ latest_posts:
 - **応用数学フレッシュマンセミナー2025**（京都大学，2025年11月）
   <br>"大規模農業用灌漑システムの最適制御に向けたVAR-LiNGAMによる因果解析"
 
-- **Current Status and New Development in the Theoretical Analysis for the Discrete Models of Partial Differential Equations**（中国 成都 University of Electronic Science and Technology of China，2025年9月）
+- **Current Status and New Development in the Theoretical Analysis for the Discrete Models of Partial Differential Equations**（University of Electronic Science and Technology of China, China, 2025年9月）
   <!-- <br>"Finite element approaches to the thermal convection in the eye" -->
 
 - **日本応用数理学会2025年度年会**（東京理科大学，2025年9月）
