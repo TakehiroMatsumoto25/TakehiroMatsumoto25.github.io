@@ -51,6 +51,7 @@ latest_posts:
   - Fluid Simulation (流体シミュレーション)
 
 - **Causal Discocvery**:
+  - VAR-LiNGSM
 
 <section id="presentation" class="one-page-section" markdown="1">
 
