@@ -12,7 +12,7 @@ profile:
     <p>金沢大学大学院 自然科学研究科</p>
     <p>博士後期課程1年</p>
     <p>2026年4月 - 現在</p>
-    <p>Email: takehiro.m.jp[at]gmail.com</p>
+    <p>Email: tmatsumoto[at]stu.kanazawa-u.ac.jp</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
