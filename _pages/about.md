@@ -83,7 +83,7 @@ latest_posts:
 
 ## Publications
 
-現在、論文は投稿準備中です。
+投稿準備中です。
 (Currently in preparation.)
 
 </section>
