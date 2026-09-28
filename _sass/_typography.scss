@@ -140,6 +140,31 @@ body, p, h1, h2, h3, h4, h5, h6, a, li, span, div {
   font-family: Meiryo, "Hiragino Sans", "Noto Sans JP", Arial, sans-serif !important;
 }
 
+body,
+p,
+a,
+li,
+span,
+div {
+  font-weight: 600;
+}
+
+strong,
+b,
+th {
+  font-weight: 800;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.post-title {
+  font-weight: 800;
+}
+
 .post-title {
   .name-en,
   .name-ja {
