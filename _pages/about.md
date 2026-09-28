@@ -39,12 +39,12 @@ latest_posts:
 こんにちは．松本健宏です．
 現在サイト作成中です．
 
-### Affiliation
+### Affiliation / 所属
 
 - **金沢大学大学院 自然科学研究科** 博士後期課程1年（2026年4月 - 現在）
 
 
-## Research Keywords (キーワード)
+## Research Keywords / キーワード
 
 - **Mathematics, Computational science**:
   - Finite Element Method (有限要素法)
@@ -82,7 +82,7 @@ latest_posts:
 
 <section id="publications" class="one-page-section" markdown="1">
 
-## Publications
+## Publications / 出版
 
 投稿準備中です．
 
