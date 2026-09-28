@@ -139,3 +139,15 @@ blockquote {
 body, p, h1, h2, h3, h4, h5, h6, a, li, span, div {
   font-family: Meiryo, "Hiragino Sans", "Noto Sans JP", Arial, sans-serif !important;
 }
+
+.post-title {
+  .name-en,
+  .name-ja {
+    display: block;
+  }
+
+  .name-ja {
+    margin-top: 0.25rem;
+    font-size: 0.65em;
+  }
+}

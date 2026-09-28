@@ -2,6 +2,8 @@
 layout: about
 title: About
 permalink: /
+name_en: Takehiro Matsumoto
+name_ja: 松本 健宏
 subtitle: 金沢大学大学院 自然科学研究科 博士後期課程1年
 
 profile:
