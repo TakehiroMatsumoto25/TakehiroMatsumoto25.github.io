@@ -36,15 +36,15 @@ table {
 }
 
 ul > li::marker {
-  content: "▫ ";
+  content: "▪ ";
   color: v.$cyan-color;
-  font-size: 1.55em;
+  font-size: 1.25em;
 }
 
 ul ul > li::marker {
   content: "● ";
   color: v.$cyan-color;
-  font-size: 1.55em;
+  font-size: 1.05em;
 }
 
 a,
