@@ -2,6 +2,8 @@
  * Reusable component styles: Cards, captions, profiles, etc.
  ******************************************************************************/
 
+@use "variables" as v;
+
 // Checklist
 
 ul.task-list {
@@ -197,7 +199,7 @@ ul.task-list input[type="checkbox"] {
       }
 
       i::before {
-        color: var(--global-text-color);
+        color: v.$cyan-color;
         transition-property: all 0.2s ease-in-out;
       }
 
