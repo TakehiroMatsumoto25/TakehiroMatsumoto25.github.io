@@ -59,11 +59,11 @@ ul.task-list input[type="checkbox"] {
 
 .profile {
   width: 100%;
-  transform: translateY(-3rem);
+  margin-top: -3rem;
 
   .more-info {
     margin-bottom: 5px;
-    margin-top: 5px;
+    margin-top: 1rem;
     font-family: monospace;
 
     p {
