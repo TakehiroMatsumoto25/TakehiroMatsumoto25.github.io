@@ -46,22 +46,6 @@ body.sticky-bottom-footer {
 
 // One-page home
 .one-page-home {
-  .one-page-shell {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) 9rem;
-    column-gap: 2.5rem;
-    align-items: start;
-  }
-
-  .one-page-main {
-    min-width: 0;
-  }
-
-  .one-page-aside {
-    grid-column: 2;
-    grid-row: 1;
-  }
-
   .one-page-nav {
     top: 5rem;
     margin-bottom: 2rem;
@@ -91,10 +75,6 @@ body.sticky-bottom-footer {
 
 @media (max-width: 767.98px) {
   .one-page-home {
-    .one-page-shell {
-      display: block;
-    }
-
     .one-page-nav {
       position: static;
       display: flex;
