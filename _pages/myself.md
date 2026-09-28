@@ -13,5 +13,5 @@ nav_order: 5
   - Cycling
   - Fishing
   - Eating Delicious food
-  - Watching Motor sports
+  - Watching Motor sports (GT500)
   - Kicks
