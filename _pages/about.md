@@ -57,7 +57,7 @@ latest_posts:
 
 <section id="presentation" class="one-page-section" markdown="1">
 
-## Presentations / 講演履歴
+## Presentations / 発表履歴
 
 - **日本応用数理学会2026年度年会 正会員OS 「FreeFEMの開発と利用」**（九州大学，2026年9月）
   <br>"FreeFEM を用いた熱対流を伴う前眼部房水流動のシミュレーション"
