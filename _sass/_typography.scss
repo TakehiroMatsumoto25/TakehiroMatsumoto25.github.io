@@ -35,6 +35,10 @@ table {
   }
 }
 
+li::marker {
+  color: v.$cyan-color;
+}
+
 a,
 table.table a {
   color: var(--global-theme-color);
