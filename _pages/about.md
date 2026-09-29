@@ -54,7 +54,7 @@ latest_posts:
   - Fluid Simulation (流体シミュレーション)
 
 - **Causal Discocvery**:
-  - VAR-LiNGSM
+  - VAR-LiNGAM
 
 <section id="presentation" class="one-page-section" markdown="1">
 
@@ -76,7 +76,7 @@ latest_posts:
   <br>"大規模農業用灌漑システムの最適制御に向けたVAR-LiNGAMによる因果解析"
 
 - **Current Status and New Development in the Theoretical Analysis for the Discrete Models of Partial Differential Equations**（University of Electronic Science and Technology of China, China, 2025年9月）
-  <!-- <br>"Finite element approaches to the thermal convection in the eye" -->
+   <br>"Finite element approaches to the thermal convection in the eye"
 
 - **日本応用数理学会2025年度年会**（東京理科大学，2025年9月）
   <br>"大規模灌漑システムの最適制御に向けたVAR-LiNGAMによる因果解析"
@@ -109,3 +109,13 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. 
 -->
+
+<!----
+cd /Users/takehiromatsumoto/Git/TakehiroMatsumoto25.github.io
+
+git status
+git add .
+git commit -m "Update website"
+git push origin main
+
+---->
