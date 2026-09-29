@@ -39,7 +39,6 @@ latest_posts:
 </style>
 
 こんにちは．松本健宏です．
-本ページは現在作成中です．
 
 <div class="section-spacer"></div>
 
