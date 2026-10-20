@@ -8,4 +8,4 @@ nav_order: 11
 
 準備中です．．
 
-[トップページへ戻る]({{ '/' | relative_url }})
+<a class="home-link" href="{{ '/' | relative_url }}">トップページへ戻る</a>
