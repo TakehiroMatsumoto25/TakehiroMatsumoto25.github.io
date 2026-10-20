@@ -11,6 +11,11 @@
   opacity: 0.95;
 }
 
+// Keep the custom list markers out of the navigation menu.
+.navbar-nav li::before {
+  content: none;
+}
+
 .navbar .dropdown-menu,
 .btn-group.dropdown .dropdown-menu {
   background-color: var(--global-bg-color);
