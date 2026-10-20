@@ -65,20 +65,22 @@
   }
 
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
+    color: v.$blue-color;
 
-    &:hover {
-      color: var(--global-hover-color);
+    &:hover,
+    &:focus-visible {
+      color: v.$orange-color;
     }
   }
 
   .navbar-nav .nav-item.active > .nav-link {
     background-color: inherit;
     font-weight: bolder;
-    color: var(--global-theme-color);
+    color: v.$blue-color;
 
-    &:hover {
-      color: var(--global-hover-color);
+    &:hover,
+    &:focus-visible {
+      color: v.$orange-color;
     }
   }
 
@@ -187,9 +189,14 @@
   padding: 0;
   border: 0;
   background-color: inherit;
-  color: var(--global-text-color);
+  color: v.$blue-color;
 
-  &:hover {
-    color: var(--global-hover-color);
+  .nav-link {
+    color: inherit;
+  }
+
+  &:hover,
+  &:focus-visible {
+    color: v.$orange-color;
   }
 }

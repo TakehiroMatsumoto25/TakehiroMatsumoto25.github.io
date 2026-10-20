@@ -72,6 +72,15 @@ table.table a {
   }
 }
 
+.home-link {
+  color: v.$blue-color;
+
+  &:hover,
+  &:focus-visible {
+    color: v.$orange-color;
+  }
+}
+
 .table-dark {
   background-color: transparent;
   &.table-bordered {
