@@ -66,6 +66,9 @@ latest_posts:
 - **CoMFoSNaSc 2026**（Bluewater Maribago Beach Resort and Hotel, Philippines，2026年6月）
   <br>"Finite Element Simulation of Aqueous Humour Flow with Thermal Convection in the Human Eye"
 
+- **第10回RCS有志セミナー**（オンライン，2026年3月）
+  <br>"機械学習による深層生成モデル：変分オートエンコーダ (VAE) の理論と実装"
+
 - **AMSC2026: Workshop on Applied Mathematics and Scientific Computing**（しいのき迎賓館，金沢，2026年1月）
   <br>"Finite Element Simulation of Thermal Convection in the Human Eye"
 
