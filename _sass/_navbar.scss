@@ -65,7 +65,8 @@
   }
 
   .navbar-nav .nav-item .nav-link {
-    color: v.$blue-color;
+    color: var(--global-text-color);
+    font-weight: 500;
 
     &:hover,
     &:focus-visible {
@@ -75,7 +76,7 @@
 
   .navbar-nav .nav-item.active > .nav-link {
     background-color: inherit;
-    font-weight: bolder;
+    font-weight: 700;
     color: v.$blue-color;
 
     &:hover,
@@ -189,7 +190,7 @@
   padding: 0;
   border: 0;
   background-color: inherit;
-  color: v.$blue-color;
+  color: var(--global-text-color);
 
   .nav-link {
     color: inherit;
