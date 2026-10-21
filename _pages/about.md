@@ -30,6 +30,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 <style>
   .profile img {
     width: 180px; /* この数字を小さくするほど、画像が小さくなります */
@@ -45,7 +46,6 @@ latest_posts:
 ### Affiliation / 所属
 
 金沢大学大学院 自然科学研究科 博士後期課程1年（2026年4月 - 現在）
-
 
 ### Research Keywords / キーワード
 
@@ -79,7 +79,7 @@ latest_posts:
   <br>"大規模農業用灌漑システムの最適制御に向けたVAR-LiNGAMによる因果解析"
 
 - **Current Status and New Development in the Theoretical Analysis for the Discrete Models of Partial Differential Equations**（University of Electronic Science and Technology of China, China, 2025年9月）
-   <br>"Finite element approaches to the thermal convection in the eye"
+  <br>"Finite element approaches to the thermal convection in the eye"
 
 - **日本応用数理学会2025年度年会**（東京理科大学，2025年9月）
   <br>"大規模灌漑システムの最適制御に向けたVAR-LiNGAMによる因果解析"
@@ -104,13 +104,12 @@ latest_posts:
 
 </section>
 
-
-<!-- 
+<!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. 
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 -->
 
 <!----

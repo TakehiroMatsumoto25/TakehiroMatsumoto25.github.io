@@ -8,7 +8,7 @@ nav_order: 5
 
 ### BackGround
 
-- **Hobbies** 
+- **Hobbies**
   - Skiing
   - Cycling
   - Fishing

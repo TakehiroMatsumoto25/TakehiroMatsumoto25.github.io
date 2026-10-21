@@ -1,5 +1,5 @@
 ---
-layout: page  # ★ここを cv から page に変えると、ただのプレーンなページになります！
+layout: page # ★ここを cv から page に変えると、ただのプレーンなページになります！
 permalink: /cv/
 title: CV
 nav: false
