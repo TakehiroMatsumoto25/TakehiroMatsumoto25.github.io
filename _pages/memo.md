@@ -7,7 +7,7 @@ nav_order: 11
 ---
 
 <style>
-  .post article h5 {
+  .post article h3 {
     border-bottom: 1px solid rgba(0, 0, 0, 0.12);
     padding-bottom: 0.3em;
   }
