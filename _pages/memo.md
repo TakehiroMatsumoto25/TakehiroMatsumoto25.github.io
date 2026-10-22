@@ -4,14 +4,15 @@ title: Memo
 permalink: /memo/
 nav: true
 nav_order: 11
+---
 
 <style>
-  .post article h4 {  # h5が「#####」に対応
+  .post article h5 {
     border-bottom: 1px solid rgba(0, 0, 0, 0.12);
     padding-bottom: 0.3em;
   }
 </style>
----
+
 
 色々書き出してはおりますが，準備中という気持ちです...
 
