@@ -19,7 +19,10 @@ toc:
   }
 
   .post article a:not(.home-link) {
-    color: #2698ba;
+    color: var(--global-text-color);
+    text-decoration: underline dotted;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.2em;
   }
 
   .post article a:not(.home-link):hover,
