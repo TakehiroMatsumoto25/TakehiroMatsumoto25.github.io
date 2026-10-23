@@ -57,7 +57,7 @@ toc:
 
 #### <span style="color: #f29105; font-size: 0.85em;">●</span><u> スライド作成 について </u>
 
-- YouTube にて公開されている，早稲田大学の早水先生のスライド作成に関する[動画](https://www.youtube.com/watch?v=zMp3BrIakOY)は大変参考になります．
+- YouTube にて公開されている，早稲田大学の早水先生の[スライド作成に関する動画](https://www.youtube.com/watch?v=zMp3BrIakOY)は大変参考になります．
 
 #### <span style="color: #f29105; font-size: 0.85em;">●</span><u>そのほか </u>
 
