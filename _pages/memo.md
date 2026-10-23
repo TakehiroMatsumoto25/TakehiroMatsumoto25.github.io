@@ -18,6 +18,15 @@ toc:
     font-size: 1.25rem;
   }
 
+  .post article a:not(.home-link) {
+    color: #2698ba;
+  }
+
+  .post article a:not(.home-link):hover,
+  .post article a:not(.home-link):focus-visible {
+    color: #f29105;
+  }
+
   #toc-sidebar .nav-link + ul {
     display: block;
   }
