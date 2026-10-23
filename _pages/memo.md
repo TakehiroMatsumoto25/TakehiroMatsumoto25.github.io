@@ -27,23 +27,23 @@ toc:
 
 ### 研究関連
 
-#### <span style="color: #f29105; font-size: 0.85em;">●</span><u> FreeFEM について </u>
+##### <span style="color: #f29105; font-size: 0.85em;">●</span><u> FreeFEM について </u>
 
 - 並列化を行わずメモリスワップが起きないのであれば，計算速度に関しては Mac での計算が他のPCの計算を上回ると考えています．しかし，節点数が増えたり並列化を行ったりした場合には，話は全く異なります．
 
-#### <span style="color: #f29105; font-size: 0.85em;">●</span><u> Paraview について </u>
+##### <span style="color: #f29105; font-size: 0.85em;">●</span><u> Paraview について </u>
 
 - Paraviewの欠点の一つとして，グリグリ動かした際に解像度が低下する現象があげられます．しかし，実は設定をいじればグリグリ動かしている間でも解像度を保つ様にできます．デフォルトではPCへの負荷低減のためにあえて解像度を下げている様です．
 
-#### <span style="color: #f29105; font-size: 0.85em;">●</span><u> Gmsh について </u>
+##### <span style="color: #f29105; font-size: 0.85em;">●</span><u> Gmsh について </u>
 
 準備中です．
 
-#### <span style="color: #f29105; font-size: 0.85em;">●</span><u> スライド作成 について </u>
+##### <span style="color: #f29105; font-size: 0.85em;">●</span><u> スライド作成 について </u>
 
 - YouTube にて公開されている，早稲田大学の早水先生のスライド作成に関する動画は大変参考になります．
 
-#### <span style="color: #f29105; font-size: 0.85em;">●</span><u>そのほか </u>
+##### <span style="color: #f29105; font-size: 0.85em;">●</span><u>そのほか </u>
 
 - ノーフリーランチ定理というものを教えていただきました．パラメータを少なく抑えつつ思った通りのクラスタリングをする一般的な手法はないのだろうか．
 
@@ -55,7 +55,7 @@ toc:
 
 ### 研究以外
 
-#### <span style="color: #f29105; font-size: 0.85em;">●</span><u> 金沢について </u>
+##### <span style="color: #f29105; font-size: 0.85em;">●</span><u> 金沢について </u>
 
 - 主要な路線バスを運行する北鉄バスは交通系 IC (Suica, Pasmo,\.\.\.) が使えません．クレジットのタッチ決済は使えます．ご注意ください．
 
@@ -75,7 +75,7 @@ toc:
 
 - 金沢駅周辺には信じられないくらいスーパーがありません．定食屋も多くありません．
 
-#### <span style="color: #f29105; font-size: 0.85em;">●</span><u> 仙台について </u>
+##### <span style="color: #f29105; font-size: 0.85em;">●</span><u> 仙台について </u>
 
 - 街路樹としてはトウカエデとケヤキをよくみます．東北大学川内キャンパスにはトチノキ並木があります．数年前までは立派なメタセコイヤ並木もあったのですが，少し前に長さが半分くらいに切られ，かつての迫力は失われました．
 
@@ -103,7 +103,7 @@ toc:
 
 - 山形へ行く際は電車よりもバスがおすすめです．時間も短く，本数も多く，安いです．
 
-#### <span style="color: #f29105; font-size: 0.85em;">●</span><u> そのほか </u>
+##### <span style="color: #f29105; font-size: 0.85em;">●</span><u> そのほか </u>
 
 - 当サイトの背景画像は，長野県白馬村の白馬岩岳スノーフィールドから八方尾根スキー場方向を撮影したものです．
 
