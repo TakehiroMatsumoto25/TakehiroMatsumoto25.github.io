@@ -51,13 +51,15 @@ toc:
 
 - アニメで変化させ得るのは時間ステップだけではないのです．Python Shell にコードを書くことで，アニメ内にて Properties に書かれているパラメータを変化させることができます．
 
+- アニメは.avi形式でしか出力できないと思いますので，必要があれば ffmpeg を使い，.mp4形式にしてください．
+
 #### <span style="color: #f29105; font-size: 0.85em;">●</span><u> Gmsh について </u>
 
 - Gmsh で作成したメッシュを .mesh ファイルとして書き出すことで，FreeFEM にて読み込むことができます．簡単な形状はすぐ読み込めますが，例えば二つの形状の合併を作るなどの少し複雑なことをやりだすと，ラベルなどが整合しなかったり，性質の悪い要素が現れたりすることがある印象があります．コードの適切な書き方がわかれば良いのですが，わかるまでは少し annoying です．
 
 #### <span style="color: #f29105; font-size: 0.85em;">●</span><u> スライド作成 について </u>
 
-- YouTube にて公開されている，早稲田大学の早水先生の[スライド作成に関する動画](https://www.youtube.com/watch?v=zMp3BrIakOY)は大変参考になります．
+- YouTube にて公開されている，早稲田大学の早水先生の[スライド作成に関する動画](https://www.youtube.com/watch?v=zMp3BrIakOY)は大変勉強になります．
 
 #### <span style="color: #f29105; font-size: 0.85em;">●</span><u>そのほか </u>
 
