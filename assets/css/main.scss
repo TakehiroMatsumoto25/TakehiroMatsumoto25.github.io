@@ -41,13 +41,20 @@
 // Keep the existing image and white overlay, with a separate layer on the home page.
 body:not(.home-page),
 body.home-page::before {
-  background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),
+  background: linear-gradient(
+      rgba(255, 255, 255, var(--background-overlay-opacity, 0.7)),
+      rgba(255, 255, 255, var(--background-overlay-opacity, 0.7))
+    ),
     url("../img/background1mod2.jpg") no-repeat center center;
   background-size: cover;
 }
 
 body:not(.home-page) {
   background-attachment: fixed;
+}
+
+body.memo-page {
+  --background-overlay-opacity: 0.9;
 }
 
 body.home-page {
