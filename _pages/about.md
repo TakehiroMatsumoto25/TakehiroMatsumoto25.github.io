@@ -31,9 +31,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<div style="height: 40px;"></div>
-
 <style>
+  .one-page-home .post-header {
+    padding-top: 40px; /* 名前と挨拶を一緒に下げる量 */
+  }
+
   .profile img {
     width: 180px; /* この数字を小さくするほど、画像が小さくなります */
     height: auto;
