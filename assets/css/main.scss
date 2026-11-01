@@ -38,18 +38,14 @@
 @use "font-awesome/solid";
 @use "font-awesome/regular";
 
-// Keep the existing image and white overlay, with a separate layer on the home page.
-body:not(.home-page),
-body.home-page::before {
+// Keep a fixed image and white overlay on pages other than Home.
+body:not(.home-page) {
   background: linear-gradient(
       rgba(255, 255, 255, var(--background-overlay-opacity, 0.7)),
       rgba(255, 255, 255, var(--background-overlay-opacity, 0.7))
     ),
     url("../img/background1mod2.jpg") no-repeat center center;
   background-size: cover;
-}
-
-body:not(.home-page) {
   background-attachment: fixed;
 }
 
@@ -72,6 +68,15 @@ body.home-page::before {
   width: 100%;
   height: 100vh;
   height: 100svh;
+  // Overlay the image with white, becoming fully opaque in the bottom 15%.
+  background: linear-gradient(
+      to bottom,
+      rgba(255, 255, 255, 0.7) 0%,
+      rgba(255, 255, 255, 0.7) 85%,
+      #fff 100%
+    ),
+    url("../img/background1mod2.jpg") no-repeat center center;
+  background-size: cover;
   z-index: -1;
   pointer-events: none;
 }
