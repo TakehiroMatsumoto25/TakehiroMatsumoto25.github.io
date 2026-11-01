@@ -35,17 +35,17 @@ toc:
   }
 </style>
 
-色々書き出してはおりますが，準備中という気持ちです\.\.\. 
+色々書き出してはおりますが，準備中という気持ちです\.\.\.
 
 ### 研究関連
 
-#### <span style="color: #f29105; font-size: 0.85em;">●</span><u> [FreeFEM](https://freefem.org/) について </u>
+#### <span style="color: #f29105; font-size: 0.85em;">●</span><u> <a href="https://freefem.org/">FreeFEM</a> について </u>
 
 - 並列化を行わずメモリスワップが起きない程度のメッシュサイズであれば，計算速度に関しては Mac が他の計算機を上回ると考えています．
 
 - 触り始めた最初のころは，大きなメッシュを使い計算量が増えてくると，`Out of memory`という表示とともに計算がストップしてしまいました．そんなときのとりあえずの回避手段として，`load "UMFPACK64"`が使えます．
 
-#### <span style="color: #f29105; font-size: 0.85em;">●</span><u> [ParaView](https://www.paraview.org/) について </u>
+#### <span style="color: #f29105; font-size: 0.85em;">●</span><u> <a href="https://www.paraview.org/">ParaView</a> について </u>
 
 - ParaView の欠点の一つとして，グリグリ動かした際に描画が粗くなる現象があげられます．しかし，実は設定をいじればグリグリ動かしている間でも解像度を保てます．デフォルトでは PC への負荷低減のためにあえて解像度を下げている様です．
 
@@ -61,7 +61,7 @@ toc:
 
 - 毎度毎度ファイルとフィルタを開くのが面倒な場合は，`.pvsm` ファイルを作成して状態を保存するのがオススメです．「save state」ボタンで保存できます．
 
-#### <span style="color: #f29105; font-size: 0.85em;">●</span><u> [Gmsh](https://gmsh.info/) について </u>
+#### <span style="color: #f29105; font-size: 0.85em;">●</span><u> <a href="https://gmsh.info/">Gmsh</a> について </u>
 
 - Gmsh で作成したメッシュを `.mesh` ファイルとして書き出すことで，FreeFEM にて読み込むことができます．簡単な形状はすぐ読み込めますが，例えば二つの形状の合併を作るなどの少し複雑なことをやりだすと，ラベルなどが整合しなかったり，正則性の低い要素が現れたりすることがある印象があります．コードの適切な書き方がわかれば良いのですが，わかるまでは少し annoying です．
 
