@@ -62,6 +62,8 @@ latest_posts:
 - **Causal Discocvery**:
   - VAR-LiNGAM
 
+<div style="height: 40px;"></div>
+
 <section id="presentation" class="one-page-section" markdown="1">
 
 ## Presentations / 発表履歴
@@ -91,6 +93,8 @@ latest_posts:
   <br>"大規模灌漑システムの最適制御に向けたVAR-LiNGAMによる因果解析"
 
 </section>
+
+<div style="height: 40px;"></div>
 
 <section id="publications" class="one-page-section" markdown="1">
 
