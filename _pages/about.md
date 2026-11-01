@@ -31,6 +31,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<div style="height: 40px;"></div>
+
 <style>
   .profile img {
     width: 180px; /* この数字を小さくするほど、画像が小さくなります */
@@ -46,6 +48,8 @@ latest_posts:
 ### Affiliation / 所属
 
 金沢大学大学院 自然科学研究科 博士後期課程1年（2026年4月 - 現在）
+
+<div style="height: 40px;"></div>
 
 ### Research Keywords / キーワード
 
