@@ -47,13 +47,13 @@ latest_posts:
 
 <div class="section-spacer"></div>
 
-### Affiliation / 所属
+### 所属
 
 金沢大学大学院 自然科学研究科 博士後期課程1年（2026年4月 - 現在）
 
 <div style="height: 40px;"></div>
 
-### Research Keywords / キーワード
+### キーワード
 
 - **Mathematics, Computational science**:
   - Finite Element Method (有限要素法)
@@ -66,7 +66,7 @@ latest_posts:
 
 <section id="presentation" class="one-page-section" markdown="1">
 
-## Presentations / 発表履歴
+## 発表履歴
 
 - **日本応用数理学会2026年度年会 正会員OS 「FreeFEMの開発と利用」**（九州大学，2026年9月）
   <br>"FreeFEM を用いた熱対流を伴う前眼部房水流動のシミュレーション"
@@ -98,7 +98,7 @@ latest_posts:
 
 <section id="publications" class="one-page-section" markdown="1">
 
-## Publications / 出版
+## 出版
 
 投稿準備中です．
 
@@ -106,7 +106,7 @@ latest_posts:
 
 <section id="education" class="one-page-section" markdown="1">
 
-## Education / 学歴
+## 学歴
 
 - 金沢大学大学院 自然科学研究科 博士後期課程（2026年4月 - 現在）
 - 東北大学大学院 理学研究科 数学専攻 博士前期課程（2022年4月 - 2026年3月）
