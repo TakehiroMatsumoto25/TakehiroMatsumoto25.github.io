@@ -33,7 +33,7 @@ latest_posts:
 
 <style>
   .one-page-home .post-header {
-    padding-top: 40px; /* 名前と挨拶を一緒に下げる量 */
+    padding-top: 80px; /* 名前と挨拶を一緒に下げる量 */
   }
 
   .profile img {
