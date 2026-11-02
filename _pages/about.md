@@ -58,8 +58,10 @@ latest_posts:
 - **Mathematics, Computational science**:
   - Finite Element Method (有限要素法)
   - Fluid Simulation (流体シミュレーション)
+  - Error Analysis（誤差解析）
 
-- **Causal Discocvery**:
+- **Statistics**:
+  - Causal Discocvery（因果探索）
   - VAR-LiNGAM
 
 <div style="height: 40px;"></div>
