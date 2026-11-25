@@ -43,7 +43,7 @@ toc:
 
 #### <span style="color: #f29105; font-size: 0.85em;">●</span><u> 制作物について </u>
 
-- 研究集会やセミナーで使えるような[ブラウザで動くベル付きタイマー](https://takehiromatsumoto25.github.io/conference-session-timer/)を作成しました．既存のものは時間が小さかったので，時間が大きく，見やすく表示されるようになっております．お使いいただければ幸いです．フォントは 5 種類から選べます．
+- 研究集会やセミナーで使えるような[ブラウザで動くベル付きタイマー](https://takehiromatsumoto25.github.io/conference-session-timer/)を作成しました．既存のものの多くは数字のサイズが小さかったので，時間が大きく表示されるようになっております．お使いいただければ幸いです．フォントは 5 種類から選べます．
 
 <div style="height: 20px;"></div>
 
